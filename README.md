@@ -61,4 +61,4 @@ report:
 
 
 ## LICENSE
-ดูใบอนุญาต [license](https://github.com/HmmHmmmm/MailPluginNukkit/blob/master/LICENSE)
+ใบอนุญาต GPL-3.0 [license](https://github.com/HmmHmmmm/MailPluginNukkit/blob/master/LICENSE)
