@@ -58,7 +58,3 @@ report:
     <systemPath>${basedir}/lib/MailPlugin.jar</systemPath>
 </dependency>
 ```
-
-
-## LICENSE
-ดูใบอนุญาต [license](https://github.com/HmmHmmmm/MailPluginNukkit/blob/master/LICENSE)
