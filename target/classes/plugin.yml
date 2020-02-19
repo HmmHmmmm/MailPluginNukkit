@@ -1,0 +1,30 @@
+name: "MailPlugin"
+main: hmmhmmmm.mail.Mail
+author: "HmmHmmmm"
+version: "1.0"
+api: ["1.0.9"]
+website: https://github.com/HmmHmmmm/MailPluginNukkit
+
+permissions:
+    mail.command:
+        default: false
+        children:
+            mail.command.info:
+                default: op
+            mail.command.write:
+                default: true
+            mail.command.read:
+                default: true
+            mail.command.readall:
+                default: true
+            mail.command.clear:
+                default: true
+            mail.command.clearall:
+                default: true
+            mail.command.see:
+                default: true
+    report.command:
+        default: false
+        children:
+            report.command.report:
+                default: true
